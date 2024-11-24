@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello%20I'm%20wade!&animation=fadeIn&fontColor=719ef9&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:99b6f0,100:fbfffa&height=180&text=Hello!%20I'm%20wade.&animation=fadeIn&fontColor=719ef9&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 개발자입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🌟 Hi, I’m Wade, a developer who bridges design and functionality with precision.</li></li><li> I specialize in crafting custom UI/UX components like video players and animations, ensuring seamless user experiences.</li><li> By optimizing CI/CD pipelines, I’ve cut build times by 70% and built reliable deployment processes.</li><li> I focus on sustainable development, using modern tools and clean code practices to adapt to ever changing needs.</li><li> Passionate about creating efficient, user centered solutions, I’m always excited to tackle new challenges and grow. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
